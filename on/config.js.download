@@ -1,0 +1,9 @@
+var config = {
+    'apiKey':'AIzaSyB_g5_nAHDUT-V1jGFMVL5WWp_HFTlZ44Y',
+    'authDomain':'bdjdj-f0c48.firebaseapp.com',
+    'databaseURL':'https://bdjdj-f0c48.firebaseio.com',
+    'projectId':'bdjdj-f0c48',
+    'appId':'1:243919897501:web:28606f4570fbff6c27e574',
+    'storageBucket':'bdjdj-f0c48.appspot.com',
+    'messagingSenderId':'243919897501' 
+};
